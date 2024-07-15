@@ -6,5 +6,14 @@
 # Integration and Development Tools
 - 
 
+# Implementation
+    - IDE - Visual Studio Code
+    - Python Programming Language
+    - Jupyter Notebook
+## Development
+    - GitHub - Version Control
+        - Hosting Code in Git Repository
+
+
 #Data Source
 [Housing Data](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)
