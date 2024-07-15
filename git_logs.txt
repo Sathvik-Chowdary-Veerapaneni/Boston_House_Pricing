@@ -1,0 +1,89 @@
+commit 7cc0cec0f0c44da53fbb2a4b4a3cd2e78319ef56
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Mon Jul 15 12:10:57 2024 -0500
+
+    Meaningful Columns with descriptions
+    
+    - Added easy one line description to know about specific column meaning
+    - Extracted new column_names into a variable and added replaced with
+      older names in dataframe
+    - Identified Key Featuers, in each column, based on my personal intuiton
+
+commit a28384577c14a6c4b90babf28bdd2f467360e605
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Mon Jul 15 11:48:09 2024 -0500
+
+    Data Cleaning
+    
+    - Converted Column Names to understand better while reading and to
+      produce meaingful name
+    
+    - Utilized ChatGPT to understood techincal and relations in Housing Area
+      in less time
+
+commit a22be0c33f7950357e0633c2426232d8a6a235c1
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Mon Jul 15 11:21:03 2024 -0500
+
+    Update to README Studying
+
+commit 0e22b1b2f8793531ac6a30f1dcfb2e7f099a915d
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Mon Jul 15 11:13:08 2024 -0500
+
+    Making project in clear structure
+
+commit 077487346fa74a6f05a8211021f695a90eb573ea
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Mon Jul 15 10:57:51 2024 -0500
+
+    Adding column Names from source
+    
+    - Found the column names from kaggle source, added into local data
+
+commit 253b7af0b6af5c19ed80a2a05ced62ed7dacd762
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 14:50:04 2024 -0500
+
+    README to README.md
+
+commit 234511abea56855ce485d8f67d6d8cec9c1d3cdc
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 14:47:30 2024 -0500
+
+    Remodifing link
+
+commit 581b1ccd2618f7f89640ec4287085b691f33bc20
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 14:46:45 2024 -0500
+
+    Adding Data Source Link to Understand Better
+
+commit c13d8a7e738857dc50acf7cf0a6d23213d1dda78
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 13:01:49 2024 -0500
+
+    About Code.ipynb
+    
+    - Created a ipynb file performing on jupyter kernal
+    - After intial loading of data into dataframe using pandas
+    - The head function displays the first 5 rows of data, which didn't had
+      the column names
+
+commit 5f71b5e39163abd2b7c7c8145fd7ce4ec681e9bf
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 12:57:41 2024 -0500
+
+    Update to Readme about project agenda
+
+commit 21c6d3073fdc55a220ccb5b9798092da2d4f48d5
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 12:54:46 2024 -0500
+
+    First Commit to Readme
+
+commit 07721342de9483552a9506c26da470fb37158662
+Author: Sathvik Chowdary Veerapaneni <sathvikchowdaryveerapaneni@gmail.com>
+Date:   Sun Jul 14 12:53:15 2024 -0500
+
+    Data added to Project from Kaggle

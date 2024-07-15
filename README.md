@@ -18,3 +18,4 @@
 #Data Source
 [Housing Data](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)
 [More Information](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+[Types of EDA](https://www.quanthub.com/what-are-types-of-eda/)
